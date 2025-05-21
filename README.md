@@ -20,8 +20,6 @@
 > _“Hope is the thing with feathers that perches in the soul.”_  
 > — Emily Dickinson
 
-Welcome to the most extravagant, intricate, and beautiful bird-themed README on GitHub!  
-Here, birds soar not just in the sky, but across Markdown, SVG, and Unicode.
 
 ---
 
