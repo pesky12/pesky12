@@ -5,9 +5,6 @@
   <a href="https://en.wikipedia.org/wiki/Bird">
     <img src="https://img.shields.io/badge/Bird-Lover-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Bird Lover Badge"/>
   </a>
-  <a href="https://www.audubon.org/">
-    <img src="https://img.shields.io/badge/Audubon-Society-green?style=for-the-badge&logo=leaflet&logoColor=white" alt="Audubon Society Badge"/>
-  </a>
   <a href="https://ebird.org/">
     <img src="https://img.shields.io/badge/eBird-Tracker-yellow?style=for-the-badge&logo=github&logoColor=black" alt="eBird Tracker Badge"/>
   </a>
@@ -15,27 +12,9 @@
 
 ---
 
-## 🐦 About This Repo
-
-> _“Hope is the thing with feathers that perches in the soul.”_  
-> — Emily Dickinson
 
 
----
 
-<details>
-<summary>Hidden ASCII Bird</summary>
-
-```
-         \\
-         (o>
-     \\_//)
-      \_/_)
-       _|_
-```
-</details>
-
----
 
 ## 🦚 Bird Facts Table
 
@@ -56,15 +35,6 @@
 
 ---
 
-## 🪶 Bird Quotes
-
-> “A bird does not sing because it has an answer, it sings because it has a song.”  
-> — Chinese Proverb
-
-> “No bird soars too high if he soars with his own wings.”  
-> — William Blake
-
----
 
 ## 📚 Bird stuff
 
@@ -77,4 +47,18 @@
 
 <p align="center">
   <b>hi!</b> 🕊️
+</p>
+
+<p align="center">
+<details>
+<summary>Hidden ASCII Bird</summary>
+
+```
+         \\
+         (o>
+     \\_//)
+      \_/_)
+       _|_
+```
+</details>
 </p>
