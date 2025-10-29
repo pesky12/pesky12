@@ -1,10 +1,3 @@
-## 🌈 Quick Bird Emojis
-
-<p align="center" style="font-size:2em;">
-  🦜 🐦 🐧 🦉 🦆 🦢 🦩 🐤 🐥 🐣 🐔 🦚 🦃 🦅 🦇
-</p>
-
-
 ## 📚 Bird stuff
 
 - [All About Birds (Cornell Lab)](https://www.allaboutbirds.org/)
